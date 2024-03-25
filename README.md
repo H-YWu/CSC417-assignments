@@ -9,14 +9,14 @@
 
 ## FEM Demos
 
-https://github.com/H-YWu/CSC417-assignments/tree/master/demos/arma.mp4
+<video width="320" height="240" controls>
+  <source src="demos/arma.mp4" type="video/mp4">
+</video>
 
-Press play to see the video.
+<video width="320" height="240" controls>
+  <source src="demos/bunny.mp4" type="video/mp4">
+</video>
 
-https://github.com/H-YWu/CSC417-assignments/tree/master/demos/bunny.mp4
-
-Press play to see the video.
-
-https://github.com/H-YWu/CSC417-assignments/tree/master/demos/cloth.mp4
-
-Press play to see the video.
+<video width="320" height="240" controls>
+  <source src="demos/cloth.mp4" type="video/mp4">
+</video>
