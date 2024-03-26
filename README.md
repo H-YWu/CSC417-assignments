@@ -9,14 +9,6 @@
 
 ## FEM Demos
 
-<video width="320" height="240" controls>
-  <source src="demos/arma.mp4" type="video/mp4">
-</video>
+https://github.com/H-YWu/CSC417-assignments/assets/130982692/30602794-4ff6-4791-beb5-04164fcb908f
 
-<video width="320" height="240" controls>
-  <source src="demos/bunny.mp4" type="video/mp4">
-</video>
-
-<video width="320" height="240" controls>
-  <source src="demos/cloth.mp4" type="video/mp4">
-</video>
+For other demos please see the demos directory.
